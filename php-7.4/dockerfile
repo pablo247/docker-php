@@ -41,6 +41,7 @@ RUN apt-get update ; \
 		zip \
 		bz2 \
 		# math
+		bcmath \
 		gmp \
 		# cache
 		opcache \
