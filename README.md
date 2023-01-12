@@ -1,9 +1,11 @@
 # docker-php
 
-Repositorio Docker Hub
+These Dockerfiles have PHP modules and dependencies configured for different projects
 
-<https://hub.docker.com/repository/docker/pablo262/dst-joomla>
+Repository of Docker Hub
 
-Repositorio de estructura de Proyecto
+<https://hub.docker.com/repository/docker/pablo262/php>
+
+Repository of project structure
 
 <https://github.com/pablo247/template_joomla_projects>
